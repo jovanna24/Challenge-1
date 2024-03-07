@@ -19,11 +19,11 @@ This project included editing a provided HTML and CSS file to include appropriat
 
 * VS Code: https://code.visualstudio.com/
 * Chrome Dev Tools: Can be accessed by right clicking on the project home page and selecting Inspect. After opening Dev Tools, select Elements to view the corresponding HTML and Styles to view the corresponding CSS.
-* GitHub: 
 
 ### Executing program
 
 * Open the project home page at the following link; jovanna24.github.io/Challenge-1
+* Open the GitHub repository at the following link; 
 * Right click anywhere on the webpage to open Chrome Dev Tools.
 * Select Elements to view HTML code.
 * Select Styles to view corresponding CSS code.
