@@ -18,15 +18,15 @@ This project included editing a provided HTML and CSS file to include appropriat
 ### Installing
 
 * VS Code: https://code.visualstudio.com/
-* Chrome Dev Tools: Can be accessed by right clicking on the project home page and selecting Inspect. After opening Dev Tools, select Elements to view the corresponding HTML and Styles to view the corresponding CSS.
+* Chrome Dev Tools: This can be accessed by right-clicking on the project home page and selecting Inspect. After opening Dev Tools, select Elements to view the corresponding HTML and Styles to view the corresponding CSS.
 
 ### Executing program
 
 * Open the project home page at the following link; jovanna24.github.io/Challenge-1
-* Open the GitHub repository at the following link; 
-* Right click anywhere on the webpage to open Chrome Dev Tools.
+* Open the GitHub repository at the following link; https://github.com/jovanna24/Challenge-1.git
+* Right-click anywhere on the webpage to open Chrome Dev Tools.
 * Select Elements to view HTML code.
-* Select Styles to view corresponding CSS code.
+* Select Styles to view the corresponding CSS code.
 * Change general <div> elements in the HTML file to appropriate HTML Semantic Elements.
 * Change the corresponding CSS code to ensure the style of the page remains the same as the original page.
 * Use VS Code to transfer the appropriate changes to the HTML and CSS files.
